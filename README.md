@@ -12,7 +12,7 @@ N/A
 
 This page is an exercise in using the box model to format a simple webpage. There is no functionality to it.
 
-Link to deployed application: 
+Link to deployed application: https://ktunebe.github.io/landing-page-mini-project/
 
 ![Screenshot of the Landing Page](assets/images/landing-page-mini-project.png)
 
